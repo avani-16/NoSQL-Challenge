@@ -81,19 +81,20 @@ Unless otherwise stated, for each question:
      - Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.
   4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
      - Hint: You will need to use the aggregation method to answer this.
-  There are 55 rows in the DataFrame. This is preview of first 10 rows:       
-    | _id | count |
-    |-----|-------|
-    |Thanet|1130|
-    |Greenwich|882|
-    |Maidstone|713|
-    |Newham|711|
-    |Swale|686|
-    |Chelmsford|680|
-    |Medway|672|
-    |Bexley|607|
-    |Southend-On-Sea|586|
-    |Tendring|542|
+  There are 55 rows in the DataFrame. This is preview of first 10 rows:
+       
+   | _id | count |
+   |-----|-------|
+   |Thanet|1130|
+   |Greenwich|882|
+   |Maidstone|713|
+   |Newham|711|
+   |Swale|686|
+   |Chelmsford|680|
+   |Medway|672|
+   |Bexley|607|
+   |Southend-On-Sea|586|
+   |Tendring|542|
 
 
 
