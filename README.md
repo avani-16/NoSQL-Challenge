@@ -49,7 +49,7 @@ The magazine editors have some requested modifications for the database before y
     "Distance":4623.9723280747176,
     "NewRatingPending":True
 }
-     ```
+    ```
 
    3. Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the BusinessTypeID and BusinessType fields.
    4. Update the new restaurant with the BusinessTypeID you found.
